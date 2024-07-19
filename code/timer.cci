@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:543A38D3
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:11 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:12 "C:\cvavr\inc\io.h"
+NODE:I LEVEL:0 LINE:13 "C:\cvavr\inc\sleep.h"
+NODE:V LEVEL:0 LINE:16 "key -> R4,R5"
+NODE:V LEVEL:0 LINE:16 "time -> R6,R7"
+NODE:F LEVEL:0 LINE:19 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:26 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:48 "main(void)"
